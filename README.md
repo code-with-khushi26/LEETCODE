@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
