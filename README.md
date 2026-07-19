@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/code-with-khushi26/LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-with-khushi26/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
