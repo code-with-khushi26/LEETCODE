@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/code-with-khushi26/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/code-with-khushi26/LEETCODE/tree/master/0383-ransom-note) |
+| [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1021-remove-outermost-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/code-with-khushi26/LEETCODE/tree/master/0704-binary-search) |
+| [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/code-with-khushi26/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/code-with-khushi26/LEETCODE/tree/master/1539-kth-missing-positive-number) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/code-with-khushi26/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/code-with-khushi26/LEETCODE/tree/master/0383-ransom-note) |
+| [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1331-rank-transform-of-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
