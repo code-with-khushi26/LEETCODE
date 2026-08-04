@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/code-with-khushi26/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/code-with-khushi26/LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-with-khushi26/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1331-rank-transform-of-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/code-with-khushi26/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-with-khushi26/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
