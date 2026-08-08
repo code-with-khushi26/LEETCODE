@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/code-with-khushi26/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
