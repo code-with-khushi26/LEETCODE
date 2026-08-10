@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/code-with-khushi26/LEETCODE/tree/master/0704-binary-search) |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
