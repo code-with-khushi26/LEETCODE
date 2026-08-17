@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/code-with-khushi26/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-khushi26/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
