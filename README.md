@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/code-with-khushi26/LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/code-with-khushi26/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-with-khushi26/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/code-with-khushi26/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
