@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Enumeration
 |  |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/code-with-khushi26/LEETCODE/tree/master/0686-repeated-string-match) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
