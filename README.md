@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/code-with-khushi26/LEETCODE/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-with-khushi26/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/code-with-khushi26/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
