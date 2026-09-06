@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/code-with-khushi26/LEETCODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/code-with-khushi26/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0877-stone-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/code-with-khushi26/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/code-with-khushi26/LEETCODE/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
