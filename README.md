@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/code-with-khushi26/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/code-with-khushi26/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0877-stone-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/code-with-khushi26/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/code-with-khushi26/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
