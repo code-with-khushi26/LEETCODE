@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/code-with-khushi26/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/code-with-khushi26/LEETCODE/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/code-with-khushi26/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/code-with-khushi26/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/code-with-khushi26/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/code-with-khushi26/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/code-with-khushi26/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
