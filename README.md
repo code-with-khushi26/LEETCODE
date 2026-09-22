@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/code-with-khushi26/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/code-with-khushi26/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/code-with-khushi26/LEETCODE/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/code-with-khushi26/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/code-with-khushi26/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/code-with-khushi26/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/code-with-khushi26/LEETCODE/tree/master/0242-valid-anagram) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/code-with-khushi26/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/code-with-khushi26/LEETCODE/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/code-with-khushi26/LEETCODE/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/code-with-khushi26/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
