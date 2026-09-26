@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Number Theory
@@ -329,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/code-with-khushi26/LEETCODE/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
