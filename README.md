@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/code-with-khushi26/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0748-shortest-completing-word](https://github.com/code-with-khushi26/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
