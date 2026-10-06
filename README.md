@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/code-with-khushi26/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/code-with-khushi26/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/code-with-khushi26/LEETCODE/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-khushi26/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
