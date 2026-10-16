@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/code-with-khushi26/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/code-with-khushi26/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/code-with-khushi26/LEETCODE/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/code-with-khushi26/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-khushi26/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/code-with-khushi26/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/code-with-khushi26/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/code-with-khushi26/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
