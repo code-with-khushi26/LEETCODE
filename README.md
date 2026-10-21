@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/code-with-khushi26/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/code-with-khushi26/LEETCODE/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/code-with-khushi26/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/code-with-khushi26/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/code-with-khushi26/LEETCODE/tree/master/1544-make-the-string-great) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/code-with-khushi26/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/code-with-khushi26/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/code-with-khushi26/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/code-with-khushi26/LEETCODE/tree/master/0901-online-stock-span) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/code-with-khushi26/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
