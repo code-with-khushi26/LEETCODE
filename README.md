@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/code-with-khushi26/LEETCODE/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/code-with-khushi26/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-khushi26/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/code-with-khushi26/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/code-with-khushi26/LEETCODE/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/code-with-khushi26/LEETCODE/tree/master/0136-single-number) |
 ## Design
 |  |
 | ------- |
