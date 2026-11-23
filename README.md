@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/code-with-khushi26/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/code-with-khushi26/LEETCODE/tree/master/1025-divisor-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-khushi26/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/code-with-khushi26/LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/code-with-khushi26/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/code-with-khushi26/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-khushi26/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/code-with-khushi26/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/code-with-khushi26/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-khushi26/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/code-with-khushi26/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/code-with-khushi26/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/code-with-khushi26/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/code-with-khushi26/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/code-with-khushi26/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/code-with-khushi26/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/code-with-khushi26/LEETCODE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/code-with-khushi26/LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -455,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/code-with-khushi26/LEETCODE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/code-with-khushi26/LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/code-with-khushi26/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
